@@ -1,0 +1,2 @@
+iSCSI target port
+netstat-pnt1| grep -i tgt
